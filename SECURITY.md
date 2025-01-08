@@ -1,9 +1,6 @@
 ---
-
-## **SECURITY.md**  
 This file outlines the **responsible disclosure policy** for reporting security issues and ensuring ethical use.
 
-```markdown
 # Security Policy  
 
 ## Reporting Security Issues  
