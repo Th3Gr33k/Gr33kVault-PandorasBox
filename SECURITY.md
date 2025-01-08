@@ -7,7 +7,7 @@ This file outlines the **responsible disclosure policy** for reporting security 
 If you discover a **vulnerability or security issue** related to this project, please follow these guidelines to report it responsibly:  
 
 1. **Do not disclose publicly.** Open an issue only for **non-sensitive** concerns.  
-2. **Contact the repository owner privately** via email at `your-email@example.com`.  
+2. **Contact the repository owner privately** via email at `th3Gr33kDK@proton.me`.  
 3. Provide a **detailed report** including:  
    - Steps to reproduce the issue.  
    - Potential impact and affected components.  
