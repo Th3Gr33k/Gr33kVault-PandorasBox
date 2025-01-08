@@ -1,5 +1,5 @@
 # Gr33kVault-PandorasBox
-WARNING ANYTHING IN HERE IT'S FOR LEGAL AND LEANRING PURPOSES. 
+WARNING ANYTHING IN HERE IT'S FOR LEGAL AND LEARNING PURPOSES. 
 Knowledge it's key, and this is to share some of my private scripts, to help Red Teammers, and pentesters and share knowledge in general for a good cause, and good intentions.
 
 DON'TS:
