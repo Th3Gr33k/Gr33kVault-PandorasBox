@@ -11,4 +11,4 @@ Never deploy this on unauthorized systems—doing so without consent violates la
 Use in a controlled lab or approved environment to learn advanced evasion techniques safely.
 
 Author everything in this repo:
-- Th3Greek, AKA: Th3Gr33kDK / Deiker
+- Th3Greek, AKA: Th3Gr33kDK
